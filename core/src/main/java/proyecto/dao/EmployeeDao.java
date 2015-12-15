@@ -10,3 +10,4 @@ public interface EmployeeDao extends GenericDao<Employee, Long> {
 	public List<Employee> getAll();
 
 }
+//First Change
